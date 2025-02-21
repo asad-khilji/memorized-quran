@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main {
+    background-color: white;
+    min-height: 700px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+main a {
+    text-decoration: none;
+    color: black;
+}
+
+main p {
+    font-size: 22px;
+    padding: 20px;
+}

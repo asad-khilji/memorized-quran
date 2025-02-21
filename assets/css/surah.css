@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main {
+    background-color: white;
+    max-width: 1200px;
+    margin: auto;
+    min-height: 700px;
+    text-align: center;
+}
+
+main p {
+    font-size: 22px;
+    padding: 20px;
+    font-weight: 100;
+}
+
+main h3 {
+    padding: 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+main h2 {
+    margin-top: 25px;
+}
+
+main a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
