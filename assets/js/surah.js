@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", async function () {
                 <p class="revelation">${revelation}</p>
                 <div class="ayahs">
                     ${surahAyahs.map(ayah => `
-                        <p><strong>${ayah.ayah}</strong></p>
+                        <p class"ayah"><strong>${ayah.ayah}</strong></p>
                         <p>${ayah.translation}</p>
                     `).join('')}
                 </div>

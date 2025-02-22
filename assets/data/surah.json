@@ -12,5 +12,12 @@
         "revelation": "The Opening - Revealed in Makkah",
         "ayah": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
         "translation": "All praise and thanks is for Allah The Master of all nations and people"
-    }
+    },
+    {
+	"id": 3,
+	"surah": "Surah Al Fatihah",
+	"revelation": "The Opening - Revealed in Maakah",
+	"ayah": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+	"translation": "The extremely loving and caring right now, the always loving and caring"
+    } 
 ]
