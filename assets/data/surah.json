@@ -19,5 +19,12 @@
 	"revelation": "The Opening - Revealed in Maakah",
 	"ayah": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
 	"translation": "The extremely loving and caring right now, the always loving and caring"
-    } 
+    },
+    {
+        "id": 4,
+        "surah": "Surah Al Fatihah",
+        "revelation": "The Opening - Revealed in Makkah",
+        "ayah": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+        "translation": "The Owner and The King of the day of judgement"
+    }
 ]
