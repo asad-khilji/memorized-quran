@@ -26,5 +26,12 @@
         "revelation": "The Opening - Revealed in Makkah",
         "ayah": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
         "translation": "The Owner and The King of the day of judgement"
+    },
+    {
+        "id": 5,
+        "surah": "Surah Al Fatihah",
+        "revelation": "The Opening - Revealed in Makkah",
+        "ayah": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ٥",
+        "translation": "You alone we worship and You alone we ask for help"
     }
 ]
