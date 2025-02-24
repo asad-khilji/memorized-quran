@@ -33,5 +33,12 @@
         "revelation": "The Opening - Revealed in Makkah",
         "ayah": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ٥",
         "translation": "You alone we worship and You alone we ask for help"
+    },
+    {
+        "id": 6,
+        "surah": "Surah Al Fatihah",
+        "revelation": "The Opening - Revealed in Makkah",
+        "ayah": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+        "translation": "Guide us to the straight path"
     }
 ]
