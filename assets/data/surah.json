@@ -40,5 +40,12 @@
         "revelation": "The Opening - Revealed in Makkah",
         "ayah": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
         "translation": "Guide us to the straight path"
+    },
+	 {
+        "id": 7,
+        "surah": "Surah Al Fatihah",
+        "revelation": "The Opening - Revealed in Makkah",
+        "ayah": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
+        "translation": "The path of those You favored"
     }
 ]
