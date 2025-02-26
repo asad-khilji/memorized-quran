@@ -47,5 +47,12 @@
         "revelation": "The Opening - Revealed in Makkah",
         "ayah": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
         "translation": "The path of those You favored"
+    },
+		 {
+        "id": 8,
+        "surah": "Surah Al Fatihah",
+        "revelation": "The Opening - Revealed in Makkah",
+        "ayah": "غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+        "translation": "But not the path of those who earn wrath and not those who are lost"
     }
 ]
