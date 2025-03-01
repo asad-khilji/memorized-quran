@@ -69,11 +69,18 @@
         "ayah": "الٓمٓ",
         "translation": "Alif Laam Meem"
     },
-	{
+    {
         "id": 11,
         "surah": "Surah Al Baqarah",
         "revelation": "The Cow - Revealed in Madinah",
         "ayah": "ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًۭى لِّلْمُتَّقِينَ",
         "translation": "That is the book! No doubt! In it is a timeless guidance for the cautious."
+    },
+    {
+        "id": 12,
+        "surah": "Surah Al Baqarah",
+        "revelation": "The Cow - Revealed in Madinah",
+        "ayah": "ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+        "translation": "Those who believe in the unseen and establish the salah and, only from what We have provided them, they spend."
     }
 ]
